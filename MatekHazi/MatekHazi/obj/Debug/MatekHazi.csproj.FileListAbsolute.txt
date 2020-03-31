@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\MatekHazi\MatekHazi\bin\Debug\MatekHazi.exe.config
+C:\Users\Soma\Documents\C#2\MatekHazi\MatekHazi\bin\Debug\MatekHazi.exe
+C:\Users\Soma\Documents\C#2\MatekHazi\MatekHazi\bin\Debug\MatekHazi.pdb
+C:\Users\Soma\Documents\C#2\MatekHazi\MatekHazi\obj\Debug\MatekHazi.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\MatekHazi\MatekHazi\obj\Debug\MatekHazi.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\MatekHazi\MatekHazi\obj\Debug\MatekHazi.exe
+C:\Users\Soma\Documents\C#2\MatekHazi\MatekHazi\obj\Debug\MatekHazi.pdb
